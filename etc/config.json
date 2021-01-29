@@ -4,9 +4,9 @@
     "local_address": "127.0.0.1",
     "local_port": 1080,
     "port_password": {
-        "8989": {
+        "9527": {
             "method": "aes-256-cfb",
-            "password": "p@ssw0rd"
+            "password": "mymmbkn"
         },
         "8686": "p@ssw0rd"
     },
