@@ -2,7 +2,7 @@ version: "3.6"
 
 services:
   ssr:
-    image: winterssy/shadowsocksr:latest
+    image: todzf/shadowsocksr-1:latest
     container_name: ssr
     ports:
       - 9527:9527
