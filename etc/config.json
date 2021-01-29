@@ -4,10 +4,7 @@
     "local_address": "127.0.0.1",
     "local_port": 1080,
     "port_password": {
-        "9527": {
-            "method": "rc4",
-            "password": "mymmbkn"
-        },
+        "9527": "mymmbkn",
         "8686": "p@ssw0rd"
     },
     "timeout": 300,
