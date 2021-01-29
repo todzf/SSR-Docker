@@ -5,16 +5,16 @@
     "local_port": 1080,
     "port_password": {
         "9527": {
-            "method": "aes-256-cfb",
+            "method": "rc4",
             "password": "mymmbkn"
         },
         "8686": "p@ssw0rd"
     },
     "timeout": 300,
-    "method": "chacha20",
-    "protocol": "auth_chain_a",
+    "method": "rc4",
+    "protocol": "origin",
     "protocol_param": "",
-    "obfs": "tls1.2_ticket_auth",
+    "obfs": "plain",
     "obfs_param": "",
     "redirect": "",
     "dns_ipv6": false,
